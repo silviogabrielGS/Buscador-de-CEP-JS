@@ -1,8 +1,8 @@
-# React + Vite
+# Buscador De CEP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse projeto foi feito com a ajuda de um video no youtube, com o intuito de aprender a consumir API's prontas
 
-Currently, two official plugins are available:
+Clique aqui para acessar https://silviogabrielgs.github.io/Buscador-de-CEP-JS/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![Captura de tela 2023-12-06 144405](https://github.com/silviogabrielGS/Buscador-de-CEP-JS/assets/96834160/0644505d-366d-47c9-82e9-0d1d0f666eab)
